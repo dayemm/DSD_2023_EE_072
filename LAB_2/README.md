@@ -4,6 +4,7 @@ This experiment includes the SystemVerilog code for structural modeling and the 
 
 ### Circuit diagram:
 <img width="635" alt="Image" src="https://github.com/user-attachments/assets/d01158ab-5a80-484a-8062-f24c7a56111d" />
+
 Figure 1: Circuit diagram of the combinational circuit
 
 
