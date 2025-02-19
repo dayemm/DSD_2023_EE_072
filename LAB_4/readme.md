@@ -4,8 +4,7 @@
 The module compares two 2-bit inputs (`a` and `b`) and determines whether `a > b`, `a = b`, or `a < b`. Based on the comparison, the circuit controls **Red, Green, and Blue (RGB) LEDs** to indicate the result.
 Circuit diagram:
 
-![Image](https://github.com/user-attachments/assets/11808bfa-d664-4b1b-ba12-720561a2d007)
-
+![Image](https://github.com/user-attachments/assets/07b653d1-50df-47c2-80ba-7159aae59726)
 ## Functionality
 The  module takes two 2-bit inputs:
 - `a[1:0]` - First 2-bit number
